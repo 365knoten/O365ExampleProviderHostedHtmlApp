@@ -1,0 +1,5 @@
+﻿Platzhalterdatei für das SharePoint-Modul.
+
+Ein Modul enthält Dateien, die in einer SharePoint-Anwendung inbegriffen sind, wenn diese bereitgestellt wird.
+
+Weitere Informationen finden Sie in der Modulhilfe.
